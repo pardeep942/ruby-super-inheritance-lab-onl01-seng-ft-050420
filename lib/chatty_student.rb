@@ -5,5 +5,5 @@ class ChattyStudent
     
   end
   
-  def ChattyStudent
+  def 
     
