@@ -1,4 +1,4 @@
-wrequire "spec_helper"
+
 
 describe "Student" do 
   let!(:student) { Student.new }
