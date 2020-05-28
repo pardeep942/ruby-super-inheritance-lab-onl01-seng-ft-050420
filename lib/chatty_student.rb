@@ -5,5 +5,7 @@ class ChattyStudent
     
   end
   
-  def 
+  def raise_hand
+    10.super
+    puts ""
     
